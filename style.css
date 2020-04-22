@@ -79,3 +79,9 @@ body {
 a {
   color: #615242;
 }
+
+.wrapper {
+    background-color: #FFF0AF;
+    min-height: 200px;
+    overflow: hidden;/*un-collapse margins*/
+}
