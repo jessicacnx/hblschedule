@@ -15,7 +15,7 @@
 
 h1 {
   font-family: 'Baloo Bhaina 2', cursive;
-  font-size: 70px;
+  font-size: 50px;
   text-align: center;
   font-weight: bold;
 }
@@ -28,23 +28,19 @@ h2 {
 
 input[type=submit] {
   background-color: #615242;
-  border: 2px;
+  border: 10px;
   color: white;
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
   transition: 0.3s;
   border-radius: 5px;
   font-weight: bold;
   font-family: 'Baloo Bhaina 2', cursive;
-  margin: 5px auto 5px auto; 
-  margin-top: 10px;
-  padding: 10px;
 }
 
 input[type=submit]:hover {
   background-color: white;
-  color: #615242; 
-  margin: 5px auto 5px auto; 
+  color: #615242;  
 }
 
 table, th, td {
