@@ -1,4 +1,4 @@
-# hblschedule
+# HBL Schedule for Computing 2020
 Hello! This is my schedule for my hbl computing work.
 
 I like to plan stuff in advance so this was a very fun project. 
