@@ -1,15 +1,23 @@
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #f7f4df;
+  border-radius: 10px;
+}
+
+.card {
+   background-color: white;
+   padding: 20px;
+   margin-top: 20px;
+  border-radius: 10px;
+}
+
 h1 {
   font-family: 'Baloo Bhaina 2', cursive;
   font-size: 50px;
   text-align: center;
   font-weight: bold;
-  background-color: white;
-  border: 15px solid black;
-  padding: 15px;
-  background-repeat: no-repeat;
-  background-origin: content-box;
-  border-radius: 10px;
-  background-position: center top;
 }
 
 h2 {
@@ -73,7 +81,7 @@ p1 {
 }
 
 body {
-  background-color: #f5dbc9;
+  background-color: #615242;
 }
 
 a {
@@ -83,5 +91,5 @@ a {
 .wrapper {
     background-color: #FFF0AF;
     min-height: 200px;
-    overflow: hidden;/*un-collapse margins*/
+    overflow: hidden;
 }
