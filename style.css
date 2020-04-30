@@ -8,6 +8,7 @@
 
 .card {
    background-color: white;
+   padding; 20px;
    margin-top: 20px;
    border-radius: 10px;
 }
@@ -94,6 +95,3 @@ a {
     overflow: hidden;
 }
 
-img {
-  text-align:center;
-}
