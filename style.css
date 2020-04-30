@@ -93,3 +93,7 @@ a {
     min-height: 200px;
     overflow: hidden;
 }
+
+img {
+  text-align:center;
+}
