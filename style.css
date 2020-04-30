@@ -8,21 +8,21 @@
 
 .card {
    background-color: white;
-   padding; 20px;
+   padding: 20px;
    margin-top: 20px;
    border-radius: 10px;
 }
 
 h1 {
   font-family: 'Baloo Bhaina 2', cursive;
-  font-size: 50px;
+  font-size: 100px;
   text-align: center;
   font-weight: bold;
 }
 
 h2 {
   font-family: 'Baloo Bhaina 2', cursive;
-  font-size: 50px;
+  font-size: 70px;
   text-align: left;
   font-weight: bold;
 }
@@ -82,7 +82,7 @@ p1 {
 
 body {
   background-color: #615242;
-  padding: 40px;
+  padding: 70px;
 }
 
 a {
