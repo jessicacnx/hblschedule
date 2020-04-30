@@ -15,7 +15,7 @@
 
 h1 {
   font-family: 'Baloo Bhaina 2', cursive;
-  font-size: 50px;
+  font-size: 60px;
   text-align: center;
   font-weight: bold;
 }
@@ -36,6 +36,8 @@ input[type=submit] {
   border-radius: 5px;
   font-weight: bold;
   font-family: 'Baloo Bhaina 2', cursive;
+  margin: 5px 5px; 
+  padding:5px;
 }
 
 input[type=submit]:hover {
